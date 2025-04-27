@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff5e7;
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    background: linear-gradient(to right, #f7c98b, #f0b97e);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.texto-cabecalho {
+    flex: 1;
+}
+
+.titulo-principal {
+    margin: 0;
+    font-size: 32px;
+    color: white;
+    letter-spacing: 1px;
+}
+
+.subtitulo-principal {
+    margin-top: 5px;
+    font-size: 20px;
+    color: #5a7d36;
+}
+
+.imagem-cabecalho {
+    flex: none;
+}
+
+.imagem-panqueca {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid white;
+}
+
+.conteudo {
+    padding: 20px;
+}
+
+.sessao {
+    background-color: #fff1dd;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.titulo-secao {
+    font-size: 22px;
+    color: #c86a1d;
+    margin-bottom: 10px;
+}
+
+.lista {
+    margin: 0;
+    padding-left: 20px;
+}
+
+.lista li {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+.macros-lista {
+    list-style-type: none;
+    padding: 0;
+}
+
+.macros-lista li {
+    margin-bottom: 8px;
+}
