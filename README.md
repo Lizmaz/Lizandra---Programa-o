@@ -1,7 +1,8 @@
-#Panqueca de Banana Fit 🍌🥞
+Panqueca de Banana Fit 🍌🥞
+
 Este é um site simples que apresenta a receita de uma panqueca de banana fit com aveia.
 
-#📋 Conteúdo
+📋 Conteúdo
 O site contém:
 
 Um cabeçalho colorido com o título e subtítulo da receita.
@@ -16,5 +17,5 @@ Modo de Preparo
 
 Macros nutricionais
 
-#🎯 Objetivo
+🎯 Objetivo
 Este projeto foi feito para as aulas de programação.
